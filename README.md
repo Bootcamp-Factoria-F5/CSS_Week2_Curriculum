@@ -1,5 +1,33 @@
 # ✨ **Ejercicio: Introducción a CSS - Estilizando un Currículum**
 
+## 📋 **Descripción del proyecto**
+Recrear un CV utilizando una estructura HTML5, aplicando en CSS3 los estilos de clases previamente asignadas.
+El proyecto requiere utilizar la metodlogía BEM.
+
+### 🎯 **Objetivos:**
+
+- [x] Aplicar estilos CSS utilizando las clases ya presentes en el HTML.
+- [x] Comprender y explicar brevemente qué es **BEM** en el README.
+- [x] Documentar correctamente tu trabajo en el README.
+- [x] Realizar commits siguiendo el estilo **conventional commits**.
+- [x] Utilizar la plantilla de GitHub y compartir el enlace a tu repositorio cuando termines.
+
+### 🤓 **Sobre BEM:**
+La metodología BEM permite estructurar los bloques de CSS3, dividiendo los bloques en:
+1. Block
+2. Element
+3. Modifier
+
+### 📚 **Tecnologías Utilizadas:**
++ HTML5: Para estructurar el contenido de la página 
++ CSS3: Para estilizar y maquetar el contenido 
++ Git: Para el control de versiones y la gestión del proyecto 
++ [Inspiration used for formating the HTML into an A4 page](https://www.geeksforgeeks.org/how-to-make-an-html-page-in-a4-paper-size/) 
+
+------------------------
+
+# ✨ **Ejercicio: Introducción a CSS - Estilizando un Currículum**
+
 ## 📋 **Descripción del ejercicio**
 
 Este ejercicio consiste en agregar estilos CSS a un currículum en HTML que ya tiene las clases CSS nombradas siguiendo la metodología **BEM (Block Element Modifier)**. Tu tarea será aplicar los estilos utilizando las clases ya definidas y respetando la estructura del HTML proporcionado en la **plantilla** de GitHub.
@@ -56,6 +84,4 @@ Este ejercicio consiste en agregar estilos CSS a un currículum en HTML que ya t
 - [Documentación oficial de BEM](https://getbem.com/introduction/)
 - [Guía sobre conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
-  ---
-Inspiration for formating the HTML into an A4 page: https://www.geeksforgeeks.org/how-to-make-an-html-page-in-a4-paper-size/
 
