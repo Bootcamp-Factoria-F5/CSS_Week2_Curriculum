@@ -1,0 +1,58 @@
+/* HEADER */
+
+.header {                               /* add backgroundcolor + center text */
+background-color: rgb(0,94,123);
+text-align: center;
+}
+
+.header__title {  
+    color: white;                       /* font color white + center text */
+color: white;
+}
+
+.header__info {                /* font color white + center text */
+color: white;
+}   
+
+/* MAIN */
+
+
+.profile {
+
+}
+section__title                           /* font size + font style + color + line */
+profile__description                    /* font size + color + font style */
+
+
+.experience {
+
+}
+experience__item                        /* font size + font style + color + line */
+experience__job-title                   /* font size + font style + color */
+experience__date                        /* font size + font style + color */
+experience__tasks                      /* font size + font style + color */
+
+.education {
+
+}
+education__degree                      /* font size + font style + color */
+
+.skills {
+
+}
+skills__list                           /* font size + font style + color */
+
+
+.interests {
+
+} 
+interests__description                   /* font size + font style + color */
+
+
+/* FOOTER */
+
+.footer {
+    background-color: rgb(0,94,123);
+    color: white;
+
+}
