@@ -55,3 +55,7 @@ Este ejercicio consiste en agregar estilos CSS a un currículum en HTML que ya t
 
 - [Documentación oficial de BEM](https://getbem.com/introduction/)
 - [Guía sobre conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
+  ---
+Inspiration for formating the HTML into an A4 page: https://www.geeksforgeeks.org/how-to-make-an-html-page-in-a4-paper-size/
+
